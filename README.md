@@ -11,7 +11,8 @@
 | [push_swap](https://github.com/RIshimoto/push_swap) | あるゲームにおける準最適解の探索プログラム |
 | [AtCoder_myPractice](https://github.com/RIshimoto/AtCoder_myPractice) | AtCoderでの精進の記録 |
 | [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版のような |
-| [libasm](https://github.com/RIshimoto/libasm) | TD |
+| [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を実装 |
+| [libasm](https://github.com/RIshimoto/libasm) | アセンブリ言語でライブラリ関数を実装 |
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
@@ -19,5 +20,4 @@
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 |
 | [hello_node](https://github.com/RIshimoto/hello_node) | TD |
 | [hello_vue](https://github.com/RIshimoto/hello_vue) | TD |
-| [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を自作 |
 | [JDLA-Deep-Learning-for-ENGINEER](https://github.com/RIshimoto/JDLA-Deep-Learning-for-ENGINEER) | 日本ディープラーニング協会のE資格受験に必要な認定プログラムのレポート課題 |
