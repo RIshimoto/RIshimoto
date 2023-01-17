@@ -7,7 +7,7 @@
 | [COWJS](https://github.com/RIshimoto/COWJS) | AltJS |
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
 | [cub3D-error_file_test](https://github.com/RIshimoto/cub3D-error_file_test) | 「cub3D」の自作テストツール |
-| [minishell](https://github.com/RIshimoto/minishell) |  自作tiny版bash | 
+| [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [push_swap](https://github.com/RIshimoto/push_swap) | TD |
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [GNL](https://github.com/RIshimoto/GNL) | Get Next Line |
