@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**RIshimoto/RIshimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロフィール
+### 経歴
+- 2018.04 明治大学情報科学科に入学
+- 2019.11 [競プロ](https://atcoder.jp/users/king_of_coder)を始める
+- 2020.06 [42Tokyo](https://42tokyo.jp/)入学
+- 2020.11 [ICPC 2020 Asia Yokohama Regional](https://icpc.iisf.or.jp/2020-yokohama/)に出場
+- 2021.12 [42Tokyo](https://42tokyo.jp/)卒業
+- 2021.11 [ICPC 2021 Asia Yokohama Regional](https://icpc.iisf.or.jp/2021-yokohama/)に出場
+- 2022.04 明治大学大学院理工学研究所情報科学専攻に入学
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 資格
+- TOEIC 795点取得(2022.3)
+- 基本情報技術者試験
+- 応用情報技術者試験
+- [G検定](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WWlMNlNKZGF6b1p6eElLSERRc2FFdz09)[^1]
+- [E資格](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WWlMNlNKZGF6b1p6eElLSERRc2FFdz09)[^2]
+[^1]:https://www.jdla.org/certificate/general/
+[^2]:https://www.jdla.org/certificate/engineer/
