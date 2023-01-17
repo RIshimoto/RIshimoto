@@ -10,7 +10,7 @@
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [push_swap](https://github.com/RIshimoto/push_swap) | あるゲームにおける準最適解の探索プログラム |
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
-| [GNL](https://github.com/RIshimoto/GNL) | Get Next Line |
+| [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版 |
 | [libasm](https://github.com/RIshimoto/libasm) | TD |
 | [so_long](https://github.com/RIshimoto/so_long) | TD |
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
