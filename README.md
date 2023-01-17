@@ -4,7 +4,7 @@
 | ---- | ---- |
 | [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | ハッカソンでの提出作品 |
 | [KyotoshogiAI](https://github.com/RIshimoto/KyotoshogiAI) | AlphaZeroを用いた京都将棋のゲームAI |
-| [COWJS](https://github.com/RIshimoto/COWJS) | AltJS |
+| [COWJS](https://github.com/RIshimoto/COWJS) | ぼくのかんがえたさいきょうのAltJS |
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
 | [cub3D-error_file_test](https://github.com/RIshimoto/cub3D-error_file_test) | 「cub3D」の自作テストツール |
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
