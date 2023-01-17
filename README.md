@@ -15,7 +15,6 @@
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
-| [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [minitalk](https://github.com/RIshimoto/minitalk) | TD |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | TD |
 | [hello_node](https://github.com/RIshimoto/hello_node) | TD |
