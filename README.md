@@ -1,32 +1,24 @@
-### Hi there 👋
+### 成果物
 
-## プロフィール
-### 経歴
-- 2018.04 明治大学情報科学科に入学
-- 2019.11 [競プロ](https://atcoder.jp/users/king_of_coder)[^1]を始める
-- 2020.06 42Tokyo[^2]入学
-- 2020.11 ICPC 2020 Asia Yokohama Regional[^3]に出場
-- 2021.12 42Tokyo[^2]卒業
-- 2022.03 明治大学情報科学科を卒業
-- 2022.04 明治大学大学院理工学研究所情報科学専攻に入学
-- 2022.06 ギリア株式会社[^4]知能開発部AI開発課で長期インターン
-- 2022.08 RIZAP English[^5]を始める
-- 2022.08 Open Hack U 2022 ONLINE[^6]に出場
-- 2022.11 ICPC 2022 Asia Yokohama Regional[^7]に出場
-
-[^1]:https://atcoder.jp/
-[^2]:https://42tokyo.jp/
-[^3]:https://icpc.iisf.or.jp/2020-yokohama/
-[^4]:https://ghelia.com/
-[^5]:https://www.rizap-english.jp/
-[^6]:https://hacku.yahoo.co.jp/2022/
-[^7]:https://icpc.iisf.or.jp/2021-yokohama/
-
-### 資格
-- TOEIC Listening&Reading 795点(2022.3)
-- 基本情報技術者試験
-- 応用情報技術者試験
-- [G検定](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WWlMNlNKZGF6b1p6eElLSERRc2FFdz09)[^8]
-- [E資格](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WWlMNlNKZGF6b1p6eElLSERRc2FFdz09)[^9]
-[^8]:https://www.jdla.org/certificate/general/
-[^9]:https://www.jdla.org/certificate/engineer/
+| 名前 | 説明 |
+| ---- | ---- |
+| [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | TD |
+| [KyotoshogiAI](https://github.com/RIshimoto/KyotoshogiAI) | AlphaZeroを用いた京都将棋のゲームAI |
+| [COWJS](https://github.com/RIshimoto/COWJS) | 自作AltJS |
+| [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
+| [cub3D-error_file_test](https://github.com/RIshimoto/cub3D-error_file_test) | 「cub3D」の自作テストツール |
+| [minishell](https://github.com/RIshimoto/minishell) | TD | 
+| [push_swap](https://github.com/RIshimoto/push_swap) | TD |
+| [printf](https://github.com/RIshimoto/printf) | 自作tiny版printf |
+| [GNL](https://github.com/RIshimoto/GNL) | Get Next Line |
+| [libasm](https://github.com/RIshimoto/libasm) | TD |
+| [so_long](https://github.com/RIshimoto/so_long) | TD |
+| [printf](https://github.com/RIshimoto/printf) | TD |
+| [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
+| [minitalk](https://github.com/RIshimoto/minitalk) | TD |
+| [studyDocker](https://github.com/RIshimoto/StudyDocker) | TD |
+| [AtCoder_myPractice](https://github.com/RIshimoto/AtCoder_myPractice) | AtCoderでの精進の記録 |
+| [hello_node](https://github.com/RIshimoto/hello_node) | TD |
+| [hello_vue](https://github.com/RIshimoto/hello_vue) | TD |
+| [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を自作 |
+| [JDLA-Deep-Learning-for-ENGINEER](https://github.com/RIshimoto/JDLA-Deep-Learning-for-ENGINEER) | 日本ディープラーニング協会のE資格受験に必要な認定プログラムのレポート課題 |
