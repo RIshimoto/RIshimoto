@@ -7,11 +7,11 @@
 | [COWJS](https://github.com/RIshimoto/COWJS) | ぼくのかんがえたさいきょうのAltJS |
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
 | [cub3D-error_file_test](https://github.com/RIshimoto/cub3D-error_file_test) | 「cub3D」の自作テストツール |
+| [so_long](https://github.com/RIshimoto/so_long) | 2Dゲーム |
 | [push_swap](https://github.com/RIshimoto/push_swap) | あるゲームにおける準最適解の探索プログラム |
 | [AtCoder_myPractice](https://github.com/RIshimoto/AtCoder_myPractice) | AtCoderでの精進の記録 |
 | [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版のような |
 | [libasm](https://github.com/RIshimoto/libasm) | TD |
-| [so_long](https://github.com/RIshimoto/so_long) | TD |
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
