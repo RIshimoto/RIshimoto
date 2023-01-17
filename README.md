@@ -16,7 +16,7 @@
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
 | [minitalk](https://github.com/RIshimoto/minitalk) | TD |
-| [studyDocker](https://github.com/RIshimoto/StudyDocker) | TD |
+| [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 |
 | [hello_node](https://github.com/RIshimoto/hello_node) | TD |
 | [hello_vue](https://github.com/RIshimoto/hello_vue) | TD |
 | [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を自作 |
