@@ -2,7 +2,7 @@
 
 | 名前 | 説明 |
 | ---- | ---- |
-| [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | ハッカソンでの提出作品 |
+| [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | 感情分析AIによるハイライト動画生成 |
 | [KyotoshogiAI](https://github.com/RIshimoto/KyotoshogiAI) | AlphaZeroを用いた京都将棋のゲームAI |
 | [COWJS](https://github.com/RIshimoto/COWJS) | ぼくのかんがえたさいきょうのAltJS |
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
