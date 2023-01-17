@@ -7,6 +7,7 @@
 - 2020.06 [42Tokyo](https://42tokyo.jp/)入学
 - 2020.11 [ICPC 2020 Asia Yokohama Regional](https://icpc.iisf.or.jp/2020-yokohama/)に出場
 - 2021.12 [42Tokyo](https://42tokyo.jp/)卒業
+- 2022.03 明治大学情報科学科を卒業
 - 2022.04 明治大学大学院理工学研究所情報科学専攻に入学
 - 2022.06 ギリア株式会社で長期インターン
 - 2022.08 [Open Hack U ONLINE](https://hacku.yahoo.co.jp/2022/)に出場
