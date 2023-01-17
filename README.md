@@ -15,7 +15,7 @@
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | 
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
-| [minitalk](https://github.com/RIshimoto/minitalk) | TD |
+| [minitalk](https://github.com/RIshimoto/minitalk) | C言語におけるシグナル通信 |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 |
 | [hello_node](https://github.com/RIshimoto/hello_node) | TD |
 | [hello_vue](https://github.com/RIshimoto/hello_vue) | TD |
