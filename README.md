@@ -9,7 +9,7 @@
 - 2021.12 [42Tokyo](https://42tokyo.jp/)卒業
 - 2022.03 明治大学情報科学科を卒業
 - 2022.04 明治大学大学院理工学研究所情報科学専攻に入学
-- 2022.06 ギリア株式会社で長期インターン
+- 2022.06 ギリア株式会社知能開発部AI開発課で長期インターン
 - 2022.08 [RIZAP English](https://www.rizap-english.jp/)を始める
 - 2022.08 [Open Hack U ONLINE](https://hacku.yahoo.co.jp/2022/)に出場
 - 2022.11 [ICPC 2022 Asia Yokohama Regional](https://icpc.iisf.or.jp/2021-yokohama/)に出場
