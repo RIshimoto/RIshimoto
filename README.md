@@ -2,7 +2,7 @@
 
 | 名前 | 説明 |
 | ---- | ---- |
-| [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | TD |
+| [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | ハッカソンでの提出作品 |
 | [KyotoshogiAI](https://github.com/RIshimoto/KyotoshogiAI) | AlphaZeroを用いた京都将棋のゲームAI |
 | [COWJS](https://github.com/RIshimoto/COWJS) | 自作AltJS |
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング |
@@ -13,7 +13,7 @@
 | [GNL](https://github.com/RIshimoto/GNL) | Get Next Line |
 | [libasm](https://github.com/RIshimoto/libasm) | TD |
 | [so_long](https://github.com/RIshimoto/so_long) | TD |
-| [printf](https://github.com/RIshimoto/printf) | TD |
+| [printf](https://github.com/RIshimoto/printf) | 自作 |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
 | [minitalk](https://github.com/RIshimoto/minitalk) | TD |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | TD |
