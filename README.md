@@ -13,7 +13,7 @@
 | [GNL](https://github.com/RIshimoto/GNL) | Get Next Line |
 | [libasm](https://github.com/RIshimoto/libasm) | TD |
 | [so_long](https://github.com/RIshimoto/so_long) | TD |
-| [printf](https://github.com/RIshimoto/printf) | printf |
+| [printf](https://github.com/RIshimoto/printf) | tiny版printf |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
 | [minitalk](https://github.com/RIshimoto/minitalk) | TD |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | TD |
