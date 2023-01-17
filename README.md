@@ -18,6 +18,6 @@
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド |
 | [minitalk](https://github.com/RIshimoto/minitalk) | C言語におけるシグナル通信 |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 |
-| [hello_node](https://github.com/RIshimoto/hello_node) | TD |
-| [hello_vue](https://github.com/RIshimoto/hello_vue) | TD |
+| [hello_node](https://github.com/RIshimoto/hello_node) | Node.jsのお勉強 |
+| [hello_vue](https://github.com/RIshimoto/hello_vue) | Vue.jsのお勉強 |
 | [JDLA-Deep-Learning-for-ENGINEER](https://github.com/RIshimoto/JDLA-Deep-Learning-for-ENGINEER) | 日本ディープラーニング協会のE資格受験に必要な認定プログラムのレポート課題 |
