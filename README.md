@@ -15,7 +15,7 @@
 - 2022.11 [ICPC 2022 Asia Yokohama Regional](https://icpc.iisf.or.jp/2021-yokohama/)に出場
 
 ### 資格
-- TOEIC 795点(2022.3)
+- TOEIC Listening&Reading 795点(2022.3)
 - 基本情報技術者試験
 - 応用情報技術者試験
 - [G検定](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WWlMNlNKZGF6b1p6eElLSERRc2FFdz09)[^1]
