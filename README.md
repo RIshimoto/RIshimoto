@@ -1,7 +1,7 @@
 ### 成果物一覧
 
 | 名前 | 説明 | デモ |
-| ---- | ---- | ---- |
+| ---- | ---- | :----: |
 | [facial_expression_highlight](https://github.com/king-of-hackathon/facial_expression_highlight) | 感情分析AIによるハイライト動画生成 | o |
 | [KyotoshogiAI](https://github.com/RIshimoto/KyotoshogiAI) | AlphaZeroを用いた京都将棋のゲームAI | o |
 | [COWJS](https://github.com/RIshimoto/COWJS) | ぼくのかんがえたさいきょうのAltJS | o |
