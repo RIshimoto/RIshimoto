@@ -8,7 +8,7 @@
 | [cub3D](https://github.com/RIshimoto/cub3D) | レイキャスティングを利用した3D空間レンダリング | o |
 | [cub3D-input_file_test](https://github.com/RIshimoto/cub3D-input_file_test) | 「cub3D」の自作テストツール | o |
 | [so_long](https://github.com/RIshimoto/so_long) | 2Dゲーム | o |
-| [push_swap](https://github.com/RIshimoto/push_swap) | ゲーム「push_swap」の準最適解の探索プログラム | o |
+| [push_swap](https://github.com/RIshimoto/push_swap) | ゲーム「push_swap」の最適解の探索プログラム | o |
 | [AtCoder_myPractice](https://github.com/RIshimoto/AtCoder_myPractice) | AtCoderでの精進の記録 | x |
 | [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版のような | x |
 | [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を実装 | x |
