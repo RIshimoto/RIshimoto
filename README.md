@@ -1,3 +1,8 @@
+
+<img src="https://github-readme-stats.vercel.app/api?username=RIshimoto&count_private=true&show_icons=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIshimoto&layout=compact" width="40%"/>
+
+--- 
+
 ### 成果物一覧
 
 | 名前 | 説明 | デモ |
@@ -18,7 +23,3 @@
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド | x |
 | [minitalk](https://github.com/RIshimoto/minitalk) | C言語におけるクラサバ間のシグナル通信 | x |
 | [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 | x |
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=RIshimoto&count_private=true&show_icons=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIshimoto&layout=compact" width="40%"/>
