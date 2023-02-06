@@ -22,6 +22,5 @@
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf | x |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド | x |
 | [minitalk](https://github.com/RIshimoto/minitalk) | C言語におけるクラサバ間のシグナル通信 | o |
-| [studyDocker](https://github.com/RIshimoto/StudyDocker) | Dockerを使ったシステム管理 | x |
 
 お忙しい方は↓にピン留めされてるものをお願いします。
