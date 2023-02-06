@@ -15,12 +15,12 @@
 | [so_long](https://github.com/RIshimoto/so_long) | 2Dゲーム | o |
 | [push_swap](https://github.com/RIshimoto/push_swap) | ゲーム「push_swap」の最適解の探索 | o |
 | [AtCoder_myPractice](https://github.com/RIshimoto/AtCoder_myPractice) | AtCoderでの精進の記録 | x |
-| [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版のような | x |
-| [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を実装 | x |
-| [libasm](https://github.com/RIshimoto/libasm) | アセンブリ言語でライブラリ関数を実装 | x |
 | [minishell](https://github.com/RIshimoto/minishell) |  tiny版bash | o |
 | [printf](https://github.com/RIshimoto/printf) | tiny版printf | x |
 | [mini_ls](https://github.com/RIshimoto/mini_ls) | tiny版lsコマンド | x |
+| [GNL](https://github.com/RIshimoto/GNL) | pythonのinputメソッドのC言語版のような | x |
+| [libft](https://github.com/RIshimoto/libft) | ライブラリ関数の一部を実装 | x |
+| [libasm](https://github.com/RIshimoto/libasm) | アセンブリ言語でライブラリ関数を実装 | x |
 | [minitalk](https://github.com/RIshimoto/minitalk) | C言語におけるクラサバ間のシグナル通信 | o |
 
 お忙しい方は↓にピン留めされてるものをお願いします。
